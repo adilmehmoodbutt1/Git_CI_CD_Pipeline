@@ -1,7 +1,3 @@
 Adil Jenkins Test
 
-12
-
-12
-
-12
+Adil Jenkins Test

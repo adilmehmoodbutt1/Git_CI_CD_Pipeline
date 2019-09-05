@@ -19,4 +19,4 @@ pipeline {
     }
 }
 
-/ https://www.vogella.com/tutorials/Jenkins/article.html
+// https://www.vogella.com/tutorials/Jenkins/article.html
